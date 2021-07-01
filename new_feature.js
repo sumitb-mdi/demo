@@ -1,6 +1,6 @@
 
 
-function add(a, b) {
+function add(a, b, c) {
 	print(a);
 	print(b);
 	return a+b;
