@@ -4,6 +4,9 @@ kjaskdjas
 kjaksd
 
 function getconfig() {
+	if (somevalue != null) {
+		throw exception;
+	}
 	return cfg;
 }
 
