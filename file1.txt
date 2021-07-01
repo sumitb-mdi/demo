@@ -3,6 +3,10 @@ jaksdja
 kjaskdjas
 kjaksd
 
+function getconfig() {
+	return cfg;
+}
+
 
 something {
 	jskjd
